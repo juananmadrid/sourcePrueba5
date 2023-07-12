@@ -1,0 +1,34 @@
+C:\Users\juana\Dropbox\KRONOX\DPTO TRAINNING\APPs\PHYTON\UDEMI CURSOS\JYPYTER OpenCV\0.1 Arrays con Numpy.ipynb
+
+6 AREAS DE LA VIDA:
+	- DINERO
+	- CUERPO Y SALUD
+	- TRABAJO
+	- CARRERA PROFESIONAL
+	- 
+	- 
+
+MITOS
+	- Estoy bien, cosas k dolerán, 
+
+PALANCAS
+	- REGLA 80/20: 80% alimentos saludables min
+	- COME MENOS (Levantate antes de llenarte)
+	- AGRADECIMIENTOS para abrir y cerrar el día
+	- LEY ESPEJO:
+		- Mira lo bueno y malo de padres Y piensa si es un reflejo
+		- Mira qué odias de alguien y piensa si es un reflejo
+	- EJERCICIO RUEDA DE LA VIDA
+
+
+
+O3D_X_MIN = -390
+O3D_X_MAX = 600
+O3D_Y_MIN = -600
+O3D_Y_MAX = 338
+
+CALIBRARCION:
+O3D_X_MIN = -390
+O3D_X_MAX = 110
+O3D_Y_MIN = -400
+O3D_Y_MAX = 200
