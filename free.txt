@@ -20,15 +20,3 @@ PALANCAS
 		- Mira qué odias de alguien y piensa si es un reflejo
 	- EJERCICIO RUEDA DE LA VIDA
 
-
-
-O3D_X_MIN = -390
-O3D_X_MAX = 600
-O3D_Y_MIN = -600
-O3D_Y_MAX = 338
-
-CALIBRARCION:
-O3D_X_MIN = -390
-O3D_X_MAX = 110
-O3D_Y_MIN = -400
-O3D_Y_MAX = 200
